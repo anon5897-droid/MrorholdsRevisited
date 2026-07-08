@@ -1,0 +1,21 @@
+{
+  "model": "gpt-4.1-nano",
+  "hasLLM": false,
+  "templatesFolder": "",
+  "assetsFolder": "zzImages",
+  "automaticMove": true,
+  "useSceneAnalyser": false,
+  "version": "4.2.1",
+  "customAttributes": [
+    {
+      "customName": "Notes",
+      "type": "Boolean",
+      "id": "_notes",
+      "isCustom": true,
+      "customTypes": [
+        "session"
+      ]
+    }
+  ],
+  "forceFullWidth": true
+}
