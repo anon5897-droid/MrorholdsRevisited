@@ -12,15 +12,15 @@ tasks:
     status: "proposed"
 ```
 
-Son von Vaislli Taliostrom Toldarun und Tatiana Toldarun (vatter angeheiratet, daher doppelname).
+Son von Vaislli Taliostrom Toldarun und Tatiana Toldarun (vatter angeheiratet, daher Doppelname).
 
 Ehemaliger Student der Ebenholz Universität in Narathun
 
-Dalkyr Fantiker
+Dalkyr Fanatiker
 
 Dem Haus Soldorak nahe
 
-Siehst eine Verbindung zwsichen haus Narathun und Toldorath als Versuch der hexen von Narathun sich den Clan einzuverleiben.
+Siehst eine Verbindung zwischen haus Narathun und Toldorath als Versuch der hexen von Narathun sich den Clan einzuverleiben.
 
 Ziel: Die Dalkyr zurückzurufen als Torwächter für Haus Toldorath, und den Dol Udar zu verhindern. Die Zeit der Erleuchtung Tra Halor endet, die zeit von Dol Udar kommt!
 
