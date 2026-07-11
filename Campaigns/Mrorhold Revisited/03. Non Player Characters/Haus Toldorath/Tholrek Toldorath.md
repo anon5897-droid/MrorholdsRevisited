@@ -19,5 +19,8 @@ Dort traf er jedoch die Tochter des Bürgermeisters: Thrivela, verliebte sich in
 Die Heirat hat bei manchen traditionellen nicht für Jubel gesorgt:
 "Der König mit einer niederen Adelsfrau? Pah!"
 
+ist etwa 200
+letztes  gemäklde vor 2 Jahrzehnten
 
 [[Campaigns/Mrorhold Revisited/Mrorhold Revisited.md|]]
+[[Campaigns/Mrorhold Revisited/03. Non Player Characters/Haus Toldorath/Thrivela Toldorath.md|]]
